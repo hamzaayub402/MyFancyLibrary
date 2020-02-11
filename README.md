@@ -1,5 +1,5 @@
 
-# react-native-my-fancy-library
+# MyFancyLibrary
 
 ## Getting started
 
